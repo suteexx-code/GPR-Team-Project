@@ -1,0 +1,62 @@
+{
+  "5472122749": {
+    "deadlines": [
+      {
+        "title": "program",
+        "date": "2026-05-11"
+      }
+    ],
+    "todos": [
+      {
+        "task": "do project",
+        "done": true
+      },
+      {
+        "task": "вывыв",
+        "done": false
+      }
+    ],
+    "flashcards": [
+      {
+        "q": "the best bot",
+        "a": "studybro"
+      },
+      {
+        "q": "the best team",
+        "a": "gpr"
+      },
+      {
+        "q": "where to code",
+        "a": "vscode"
+      }
+    ]
+  },
+  "1123642768": {
+    "deadlines": [
+      {
+        "title": "1",
+        "date": "2026-05-12 12:00"
+      }
+    ],
+    "todos": [],
+    "flashcards": []
+  },
+  "1122358602": {
+    "deadlines": [],
+    "todos": [],
+    "flashcards": [
+      {
+        "q": "aboba",
+        "a": "boba"
+      },
+      {
+        "q": "hehehe",
+        "a": "hahaha"
+      },
+      {
+        "q": "lolipop",
+        "a": "poplili"
+      }
+    ]
+  }
+}
